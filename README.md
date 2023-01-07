@@ -6,3 +6,4 @@
 3. [Statsmodels](https://github.com/xianchiz/Python-Projects/tree/main/Statsmodels)
 4. [Sklearn](https://github.com/xianchiz/Python-Projects/tree/main/Sckikit-learn)
 5. [Dask](https://github.com/xianchiz/Python-Projects/tree/main/Dask)
+6. [Opioid Shipment Analysis](https://github.com/xianchiz/Python-Projects/tree/main/Opioid%20Shipment%20and%20Mortality%20Analysis)
