@@ -8,3 +8,4 @@
 5. [Dask](https://github.com/xianchiz/Python-Projects/tree/main/Dask)
 6. [Opioid Shipment Analysis](https://github.com/xianchiz/Python-Projects/tree/main/Opioid%20Shipment%20and%20Mortality%20Analysis)
 7. [Comprehensive Industry Analysis](https://github.com/xianchiz/Python-Projects/blob/main/Pandas/project_final.ipynb)
+8. [RFM Analysis for KPMG](https://github.com/xianchiz/Python-Projects/blob/main/RFM/Task%2002%20-%20EDA_RFM.ipynb)
